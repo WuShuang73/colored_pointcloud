@@ -1,4 +1,4 @@
-#colored_pointcloud package
+#将点云数据投影到照片中并着色
 - 下载及安装：
 在工作空间中的src打开终端，输入
 ```
